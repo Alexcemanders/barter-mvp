@@ -1,0 +1,13 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": false,
+    "noImplicitAny": false,
+    "jsx": "react-native",
+    "noUncheckedIndexedAccess": false,
+    "skipLibCheck": true
+  }
+
+}
+
+
