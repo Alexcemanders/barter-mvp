@@ -2,7 +2,7 @@
 
 An investor-ready, full-stack MVP engineered to systematically eliminate agricultural waste, combat corporate supply chain dominance, and foster local food security through an automated, cash-free barter ecosystem.
 
-Built for the **Hack America Hackathon**.
+
 
 ---
 
